@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-[![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mohamed-shaban.6d8eab0e)
+[![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/hazem-shaban.e71db398)
    
 </div>
 
