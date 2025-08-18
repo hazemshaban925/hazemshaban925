@@ -12,11 +12,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
  
-  <a href="https://www.linkedin.com/in/mohamed-shaban-52456016b/">
+  <a href="https://www.linkedin.com/in/hazem-shaban-576245302/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
   
- <a href="mailto:mohamedshabankhater@gmail.com">
+ <a href="mailto:shabanhazem925@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
@@ -46,21 +46,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🌐 Front-End
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ECMAScript](https://img.shields.io/badge/ECMAScript-2023-blue?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -69,13 +62,7 @@
 ### 🛠 Back-End
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 ### 🧠 Databases
@@ -89,19 +76,11 @@
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-025669?style=for-the-badge&logo=agile&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 💼 Business Applications
-
-![Microsoft Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=power-bi&logoColor=white)
-
 
 
 
@@ -111,15 +90,15 @@
 
 <div  align="center" style="display: flex; justify-content: spane-evenly; gap: 10px; flex-wrap: wrap;">
 
-  <img src="https://streak-stats.demolab.com/?user=mo7amedshaban&theme=dark&card_width=390&background=000000" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=hazemshaban925&theme=dark&card_width=390&background=000000" height="200" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&card_width=390&langs_count=10&layout=compact&theme=vision-friendly-dark" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazemshaban925&card_width=390&langs_count=10&layout=compact&theme=vision-friendly-dark" height="195" />
 
 </div>
 
 <div align="center" >
   <a href="https://github.com/braydoncoyer">
-    <img  height=200 align="center" style="margin-top:3px;" src="https://github-readme-stats.vercel.app/api?username=mo7amedshaban&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fefefe&icon_color=fb8c01&bg_color=000000&theme=vision-friendly-dark" alt="Mohamed's GitHub Stats" />
+    <img  height=200 align="center" style="margin-top:3px;" src="https://github-readme-stats.vercel.app/api?username=hazemshaban925&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fefefe&icon_color=fb8c01&bg_color=000000&theme=vision-friendly-dark" alt="Mohamed's GitHub Stats" />
   </a>
 </div>
 
