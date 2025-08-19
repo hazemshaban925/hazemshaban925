@@ -111,14 +111,12 @@
 
 | Certification | Issuer | Credential |
 |---------------|--------|------------|
-| Azure Developer Associate | Microsoft | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/MohamedShabanAbdeltawab-0059/5B4E23FD60BABECF?sharingId=86B74E894C23BACB) |
-| Azure AI Engineer Associate | Microsoft | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/MohamedShabanAbdeltawab-0059/4BC393793A0B4AA?sharingId=86B74E894C23BACB) |
-| Dynamics 365 Fundamentals (CRM) | Microsoft | [🔗 View Credential](https://www.credly.com/badges/485ee71a-010b-47d9-9f39-2dbe2c015a08/public_url) |
-| Power Platform Fundamentals | Microsoft | [🔗 View Credential](https://www.credly.com/badges/c7809c59-d078-4ae8-9223-231781c739c1/public_url) |
-| AWS Certified Cloud Practitioner | Amazon | [🔗 View Credential](https://www.credly.com/badges/2fc7a9ff-2e75-4e25-af60-d73629c972b8/public_url) |
-| OCI Developer Professional | Oracle | [🔗 View Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=699200CCC06D6B93D5B5CD675198F0B6869C02D9008F4042C971CA2BD2840E30) |
-| MySQL Database Developer | Oracle | [🔗 View Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B5C03D713B7E3B79D8F31BF7C7046D05E2922D5C45429942C4D5E0E68210C774) |
-| IBM Full Stack Software Developer | IBM | [🔗 View Credential](https://coursera.org/share/292fbbb4f2cc61e8340bcd7d50152f3d) |
+| Azure Fundamentals | Microsoft | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/hazem-5557/89F7157A17E88EF?sharingId) |
+| Azure AI Fundamentals | Microsoft | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/hazem-5557/B07E111A0156EC2?sharingId) |
+| AWS Certified Cloud Practitioner | Amazon | [🔗 View Credential](https://www.credly.com/badges/7e481872-33d4-4b59-b845-3b19fb69d7e2) |
+| OCI Foundations Associate | Oracle | [🔗 View Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=828176F06F7E9F7F195FC07AADA3F8EF12E0B262053851C5380EAD3641AC62A8) |
+| OCI AI Foundations Associate | Oracle | [🔗 View Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3AA0CD5EA738D77AE779DBFAD41FBBF215F716C270A2B54C45D3E879411ADF75) |
+| IBM Full Stack Software Developer | IBM | [🔗 View Credential](https://www.coursera.org/account/accomplishments/professional-cert/certificate/B1LYHK6F0YJH) |
 
 </div>
 
