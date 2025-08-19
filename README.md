@@ -31,9 +31,9 @@
 ---
 
 ### :woman_technologist: About Me :
-- Full Stack Developer with experience in .NET, .NET Core, ASP.NET Core, Angular, React.js, Node.js, and Python. 
+- Full Stack Developer with experience in .NET, Angular, React.js, Node.js, and Python. 
 
-- Builds web apps with afocus on scalable cloud-native solutions across Azure, AWS, Oracle, and GCP.
+- Builds web apps with afocus on scalable cloud-native solutions across Azure, AWS, and Oracle.
   
 - Certified by Microsoft, AWS, Oracle, and IBM. Pursuing an MSc in Computer Science & AI.
 
@@ -70,8 +70,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
