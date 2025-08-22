@@ -1,10 +1,10 @@
 <h1 align="center">Hazem Shaban</h1>
 
-<h2 align="center">Software Engineer  |  Full Stack Developer </h2>
+<h2 align="center">Software Engineer  |  Front-End Developer </h2>
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=522bd4&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=522bd4&center=true&vCenter=true&width=435&lines=Cloud+Engineer;Front-End+Developer;" alt="Typing SVG" />
   
 </div>
 
@@ -31,7 +31,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- Full Stack Developer with experience in .NET, Angular, React.js, Node.js, and Python. 
+- Front-End Developer with experience in .NET, Angular, React.js, Node.js, and Python. 
 
 - Builds web apps with afocus on scalable cloud-native solutions across Azure, AWS, and Oracle.
   
